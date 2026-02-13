@@ -2,14 +2,14 @@
 
 # 🐍 Introduction to Anaconda
 
-### *A Comprehensive Masterclass on Python Environment Management*
+### _A Comprehensive Masterclass on Python Environment Management_
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
 ![License](https://img.shields.io/badge/License-Educational-green)
 
-*A comprehensive Jupyter notebook tutorial covering Anaconda, conda package management, and Python environment best practices.*
+_A comprehensive Jupyter notebook tutorial covering Anaconda, conda package management, and Python environment best practices._
 
 ---
 
